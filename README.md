@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # ⚛️ React 19 + Vite + TypeScript + PrimeReact Starter Template
 
 Hola 👋 Soy Naty y este es mi template base para nuevos proyectos en React. Lo armé con una estructura escalable, buenas prácticas desde el inicio y herramientas que usare en mis proyectos.
@@ -49,7 +51,6 @@ src/
 
 ## ▶️ Cómo levantar el proyecto
 
-
 npm install
 npm run dev
 Abri tu navegador en http://localhost:3000
@@ -58,10 +59,10 @@ Abri tu navegador en http://localhost:3000
 bash
 Copiar
 Editar
-npm run lint        # Corre ESLint
-npm run lint:fix    # Arregla errores de lint automáticamente
-npm run format      # Formatea con Prettier
-npm run build       # Compila para producción
+npm run lint # Corre ESLint
+npm run lint:fix # Arregla errores de lint automáticamente
+npm run format # Formatea con Prettier
+npm run build # Compila para producción
 
 🧩 ¿Cómo sumar un nuevo feature?
 Creá tu módulo dentro de src/features/ (ej: users, settings)
@@ -88,3 +89,8 @@ Porque después de empezar 100 veces desde cero, decidí armar una base sólida 
 Si querés usarlo, clonalo y adaptalo como gustes.
 Y si te gusta, ⭐️ siempre se agradece :)
 
+=======
+
+# react19-auth-dashboard
+
+> > > > > > > e1e000ece1c2d38cf5f5ec50fc2ee3b06c60dd2a
