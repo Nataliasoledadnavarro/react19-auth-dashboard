@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # ⚛️ React 19 + Vite + TypeScript + PrimeReact Starter Template
 
